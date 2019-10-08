@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`S2ud`,"https//discord/fg135fQ")
+client.user.setGame(`bc-moon`,"https://discord.gg/yasKCzK")
 client.user.setStatus("i1Suhaib")
 });
 
